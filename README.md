@@ -5,11 +5,14 @@ Hadoop Map Reduce code to do some Big Data programming
 
 Programs:
 1. Word Count
+
 2. Word Statistics - Count, Mean, Variance of words in Enron Email Corpus. (Uses combiner)
+
 3. Inverted Index - Email address and a list of email Identifiers where the address was referenced
    a) Uses combiner,
    b) Performs sorting (in lexicographical order)
    c) Identifies only unique pairs and discards duplicates
+
 4. Big Data processing using Custom Writable
 5. Word Statistics Aggregator - combines daily data into weeks and generates a statistics report as in 2.
 6. Using AVRO to perform Word Statistics on the Ernon corpus
