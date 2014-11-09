@@ -4,8 +4,8 @@ Big-Data-Programming
 Hadoop Map Reduce code to do some Big Data programming
 
 Programs:
-1. Word Count
 
+1. Word Count
 2. Word Statistics - Count, Mean, Variance of words in Enron Email Corpus. (Uses combiner)
 
 3. Inverted Index - Email address and a list of email Identifiers where the address was referenced
